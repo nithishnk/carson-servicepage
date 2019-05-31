@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import Service from '../src/Service/Service'
+import Sectionone from '../src/sectionone/Sectionone'
 export default class App extends Component {
   render() {
     return (
       <div>
-        <Service/>
+        <Sectionone/>
       </div>
     )
   }
