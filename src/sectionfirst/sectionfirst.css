@@ -1,0 +1,15 @@
+.bg-clr
+{
+  background-color: #f3f3f3
+}
+.txt-property
+{
+  font-style: italic;
+  font-size: 23px;
+  color: #9a9a9a
+}
+.share
+{
+  display: flex;
+  justify-content: flex-end;
+}

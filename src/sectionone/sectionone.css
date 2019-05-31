@@ -2,17 +2,6 @@
 {
   background-color: #f3f3f3
 }
-.txt-property
-{
-  font-style: italic;
-  font-size: 23px;
-  color: #9a9a9a
-}
-.share
-{
-  display: flex;
-  justify-content: flex-end;
-}
 .img-property
 {
   width:100%;
@@ -110,7 +99,7 @@
     /* margin: 20px 30px; */
     background: rgba(0,0,0,0.09);
     }
-    span{
+    .spans{
       display: block;
       text-align:left;
       padding-top: 2rem;
